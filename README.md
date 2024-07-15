@@ -1,1 +1,2 @@
 # AI-ENVISION-STUDIO
+It is a sophisticated web experience that leverages GSAP and Locomotive Scroll to create smooth, engaging scrolling and animation effects across various sections of the webpage. It features a sleek navigation bar with interactive dropdowns, animated hover effects on elements, and a unique video playback control that enhances user interaction. With its fluid transitions and dynamic visual elements, DynamicFlow offers a visually captivating and seamless browsing experience, making it ideal for modern web presentations and portfolios.
